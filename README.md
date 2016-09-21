@@ -4,7 +4,7 @@ Consolidation of all the material for course of text analysis and mining by UIUC
 
 This repo contains screenshots of videos and also their pdfs for easy reference in future. 
 
-**Course Link on coursera** - https://www.coursera.org/learn/text-mining
+[**Course Link on coursera**](https://www.coursera.org/learn/text-mining)
 
 Taught by:    ChengXiang Zhai, Professor<br>
 Department of Computer Science<br>
